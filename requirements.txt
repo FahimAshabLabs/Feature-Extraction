@@ -1,0 +1,6 @@
+dpkt==1.9.8
+joblib==1.4.2
+numpy==2.2.0
+pandas==2.2.3
+scapy==2.6.1
+scikit-learn==1.6.0

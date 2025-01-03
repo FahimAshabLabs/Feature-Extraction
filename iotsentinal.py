@@ -181,7 +181,7 @@ for numero, dataset in enumerate([train, validation, test]):
                 print(f"Error calculating entropy: {e}")
 
             # Label can be assigned based on other features or left as "Unknown"
-            label = "Unknown"
+            label = "Athom Smart Plug"
 
             line = [
                 layer_2_arp, layer_2_llc, layer_3_eapol, layer_3_ip, layer_3_icmp, layer_3_icmp6, 

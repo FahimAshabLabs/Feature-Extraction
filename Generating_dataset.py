@@ -14,7 +14,7 @@ if __name__ == '__main__':
     start = time.time()
     print("========== CIC IoT feature extraction ==========")
     pcapfiles = [
-    "/mnt/c/Network Security projects/wireshark/Attendance/attendance6.pcap"
+    "/mnt/c/Network Security projects/wireshark/test/att_sent_upritn_dec_15_2.pcap"
     ]  # Example for a single file
 
     subfiles_size = 10 # MB
